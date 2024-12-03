@@ -5,7 +5,7 @@
 <template>
   <header>
     <div>
-      <b-navbar></b>
+      
     </div>
   </header>
 
